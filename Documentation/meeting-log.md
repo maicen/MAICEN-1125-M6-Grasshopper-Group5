@@ -19,7 +19,7 @@
 - Malak Yaseen to handle Columns component
 - Leticia Cristovam Clemente to handle Facade component
 - Mark Shane Haines to handle Script Integration and Data Summary
-- Deadline set: 27 April 2026
+- Deadline set: 25 April 2026
 
 **Next steps:**
 - All members to accept GitHub invitation
