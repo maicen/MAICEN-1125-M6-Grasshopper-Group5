@@ -3,7 +3,7 @@
 
 Module 6, Units 1 and 2 - Parametric Design and BIM Integration
 Zigurat Institute of Technology - MAICEN 1125
-Due: 27 April 2026
+Due: 26 April 2026
 
 ---
 
